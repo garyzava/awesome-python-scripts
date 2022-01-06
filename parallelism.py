@@ -1,7 +1,6 @@
 # Source: https://stackoverflow.com/questions/7207309/how-to-run-functions-in-parallel
 # Workflow Pipeline: 
-# func0 -> func1 -> func3
-#	      -> func2	
+# func0 -> In Parallel(func1 & func2) -> func3
 
 from multiprocessing import Process
 
