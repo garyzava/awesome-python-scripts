@@ -6,4 +6,5 @@ Tool | Type | Notes
 :--------- |:------ |:-----
 [Running Jobs in Parallel](https://github.com/garyzava/awesome-python-scripts/blob/main/parallelism.py) | Script | Python pipeline tool for running jobs sequentially or in parallel
 [Python & PowerShell Together](https://google.com) | Script | Python and PowerShell working together
+[Workflow Pipelines](https://github.com/garyzava/pipeline-dag/tree/master) | Script | Lightweight Python Pipeline
 
