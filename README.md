@@ -8,3 +8,4 @@ Tool | Type | Notes
 [Python & PowerShell Together](https://google.com) | Script | Python and PowerShell working together
 [Workflow Pipelines](https://github.com/garyzava/pipeline-dag/tree/master) | Script | Lightweight Python Pipeline
 [OpenAI-API](https://github.com/garyzava/openai-python-tools/blob/main/notebooks/gpt_3_5_turbo.ipynb) | Notebook | Latest OpenAI ChatGPT gpt-3.5-turbo version as of Mar-2023
+[OpenAI-API](https://github.com/garyzava/openai-slack-python) | Script | ChatGPT through Slack
